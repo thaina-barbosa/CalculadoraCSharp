@@ -1,0 +1,16 @@
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.csproj.AssemblyReference.cache
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.AssemblyInfoInputs.cache
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.AssemblyInfo.cs
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.csproj.CoreCompileInputs.cache
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.exe
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.deps.json
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.runtimeconfig.json
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.runtimeconfig.dev.json
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.dll
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\bin\Debug\net5.0\ProjetoCalculadoraCSharpe.pdb
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.dll
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\refint\ProjetoCalculadoraCSharpe.dll
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.pdb
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ProjetoCalculadoraCSharpe.genruntimeconfig.cache
+C:\projetos\ProjetoCalculadoraCSharpe\ProjetoCalculadoraCSharpe\obj\Debug\net5.0\ref\ProjetoCalculadoraCSharpe.dll

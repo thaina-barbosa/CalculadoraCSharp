@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JfSXweOsY19TC6VoHx7XWcVGKFhrvEaWmNwTDu8g/QlVjPGQP0ZZEom5yxa2GU8ibx0WH1o3t/b1JKJ8FLb2dQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\ProjetoCalculadoraCSharpe\\ProjetoCalculadoraCSharpe\\ProjetoCalculadoraCSharpe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
